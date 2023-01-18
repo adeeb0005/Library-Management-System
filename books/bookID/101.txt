@@ -1,0 +1,7 @@
+BOOK ID : 101
+TITLE : TEACH YOURSELF C
+AUTHOR NAME : Herbert Schildt
+DESCRIPTION : One of the greatest books for C language learners.
+CATAGORY : C Language
+COST : 25 USD
+QUANTITY : 8

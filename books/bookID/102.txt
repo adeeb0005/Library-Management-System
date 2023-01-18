@@ -1,0 +1,7 @@
+BOOK ID : 102
+TITLE : AN ABC OF ENGLISH LITERATURE
+AUTHOR NAME : Dr M Mofizar Rahman
+DESCRIPTION : Primary book of english literature.
+CATAGORY : English
+COST : 1.99 USD
+QUANTITY : 6
